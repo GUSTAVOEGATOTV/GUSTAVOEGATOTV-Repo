@@ -1,0 +1,23 @@
+<item>
+<title>Foto do canal</title>
+<link>https://1.bp.blogspot.com/-oi7Qb8QpYg8/X0zVe5qP9mI/AAAAAAAAERY/RN1uHTAexagNcVi_CtLxj0oN7Df9AkmmwCLcBGAsYHQ/s1280/20200817_0801</link>
+<thumbnail>https://1.bp.blogspot.com/-oi7Qb8QpYg8/X0zVe5qP9mI/AAAAAAAAERY/RN1uHTAexagNcVi_CtLxj0oN7Df9AkmmwCLcBGAsYHQ/s1280/20200817_0801</thumbnail>
+<fanart>https://1.bp.blogspot.com/-oi7Qb8QpYg8/X0zVe5qP9mI/AAAAAAAAERY/RN1uHTAexagNcVi_CtLxj0oN7Df9AkmmwCLcBGAsYHQ/s1280/20200817_0801</fanart>
+<info>Foto usada no canal no YouTube de GUSTAVOEGATOTV.</info>
+</item>
+
+<item>
+<title>Wikinet</title>
+<link>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0fRrmuue2ThsYsAdbpq3lqm9P3K97hnRnQ&usqp=CAU</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0fRrmuue2ThsYsAdbpq3lqm9P3K97hnRnQ&usqp=CAU</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0fRrmuue2ThsYsAdbpq3lqm9P3K97hnRnQ&usqp=CAU</fanart>
+<info>Foto usada na Wikinet de GUSTAVOEGATOTV.</info>
+</item>
+
+<item>
+<title>GUSTAVOEGATOTV GAME</title>
+<link>https://f4.bcbits.com/img/a0984685274_2.jpg</link>
+<thumbnail>https://f4.bcbits.com/img/a0984685274_2.jpg</thumbnail>
+<fanart>https://f4.bcbits.com/img/a0984685274_2.jpg</fanart>
+<info>Foto usada no jogo de GUSTAVOEGATOTV.</info>
+</item>
