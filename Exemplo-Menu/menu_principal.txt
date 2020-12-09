@@ -5,6 +5,7 @@
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Fotos do GUSTAVOEGATOTV[/COLOR][/B]</name>
+<externallink>https://pastebin.com/raw/6bqCkPgk</externallink>
 <thumbnail>https://f4.bcbits.com/img/a4288343875_10.jpg</thumbnail>
 <fanart>https://f4.bcbits.com/img/a4288343875_10.jpg</fanart>
 <info>Fotos do Gustavo.</info>
