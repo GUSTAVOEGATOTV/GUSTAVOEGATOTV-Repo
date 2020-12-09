@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="ggtv.repo" name="GUSTAVOEGATOTV Repo" version="1.0.0" provider-name="GUSTAVOEGATOTV">
+<addon id="plugin.video.gustavoegatotv" name="GUSTAVOEGATOTV Repo" version="1.0.0" provider-name="GUSTAVOEGATOTV">
 	<extension point="xbmc.addon.repository" name="GUSTAVOEGATOTV Repo">
 		<info compressed="false">http://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons.xml</info>
 		<checksum>http://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons.xml.md5</checksum>
