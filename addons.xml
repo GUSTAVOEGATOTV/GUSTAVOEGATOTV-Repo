@@ -15,7 +15,7 @@
 </addon>
 
 <addon id="plugin.video.gustavoegatotv"
-       name="GUSTAVOEGATOTV Add-On"
+       name="GUSTAVOEGATOTV"
        version="1.0.0"
        provider-name="GUSTAVOEHATOTV">
   <requires>
@@ -36,7 +36,7 @@
 
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
+    <provides>video audio image</provides>
   </extension>
  <extension point="xbmc.addon.repository" name="GUSTAVOEGATOTV Repo">
 	<info compressed="false">http://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons.xml</info>
