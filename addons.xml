@@ -25,7 +25,7 @@
 <extension point="xbmc.addon.metadata">
 <summary>[B][COLOR white]Tenha o melhor conteúdo no seu Kodi[/COLOR]</summary>
 <description>[B][COLOR blue]●[/COLOR] [COLOR white]GUSTAVOEGATOTV é apenas o MELHOR addon.[/COLOR][/B][CR][B][COLOR lime]●[/COLOR] [COLOR white]A Piaba Vai![/COLOR][/B][CR][B][COLOR lime]●[/COLOR] [COLOR white]A Piaba Vai![/COLOR][/B]</description>
-<disclaimer>[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON [COLOR gold]S2[/COLOR][/COLOR][/B]</disclaimer>
+<disclaimer>[B][COLOR white]A Piaba Vai! [COLOR gold]:D[/COLOR][/COLOR][/B]</disclaimer>
 <news>[B][COLOR gold]v1.0.0 - A Piaba Voou.[/COLOR][CR][COLOR gold]v1.0.0 - O Pudim Voou.[/COLOR][CR][COLOR gold]v1.0.0 - O Pingu Voou.[/COLOR][CR][COLOR gold]v1.0.0 - O Gustavo Voou.[/COLOR][CR][COLOR gold]v1.0.0 - A Piaba Pulou.[/COLOR][CR][COLOR gold]v1.0.0 - A Piaba Andou.[/COLOR][/B][CR][B][COLOR gold]v1.0.0 - Addon Criado.[/COLOR][/B]</news>
 <platform>all</platform>
 <reuselanguageinvoker>true</reuselanguageinvoker>
@@ -38,7 +38,7 @@
 </assets>
 </extension>
 </addon>
-<addon id="ggtv.repo" name="[B][COLOR white]GUSTAVOEGATOTV [COLOR blue]Repo[/COLOR][/COLOR][/B]" version="1.0.0" provider-name="GUSTAVOEGATOTV">
+<addon id="ggtv.repo" name="[B][COLOR white]GUSTAVOEGATOTV [COLOR blue]Re[/COLOR][COLOR lightblue]po[/COLOR][/COLOR][/COLOR][/B]" version="1.0.0" provider-name="GUSTAVOEGATOTV">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
 <import addon="script.module.beautifulsoup"/>
@@ -64,7 +64,7 @@
 </extension>
 <extension point="xbmc.addon.metadata">
 <news>
-[COLOR blue]●[/COLOR] v1.3 - CORREÇÕES DE BUGS.[CR][COLOR blue]●[/COLOR] v1.2 - Piaba Voou.[CR][COLOR blue]●[/COLOR] v1.1 - Piaba Caiu.[CR][COLOR blue]●[/COLOR] v1.0 - VERSÃO INICIAL.
+[COLOR blue]●[/COLOR] v1.0.0 - A Piaba Caiu.[CR][COLOR blue]●[/COLOR] v1.0.0 - O Pudim Caiu.[CR][COLOR blue]●[/COLOR] v1.0.0 - O Pingu Caiu.[CR][COLOR blue]●[/COLOR] v1.0 - VERSÃO INICIAL.
 </news>
 <summary>GUSTAVOEGATOTV Repo</summary>
 <description>[B][COLOR blue]●[/COLOR] [COLOR white]Repositório do GUSTAVOEGATOTV - 2020[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]A Piaba Voou[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]O Pudim Caiu[/COLOR][/B]
