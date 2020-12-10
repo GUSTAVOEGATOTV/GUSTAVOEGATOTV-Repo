@@ -18,8 +18,8 @@
 <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.repository" name="[B][COLOR white]GUSTAVOEGATOTV[COLOR blue]Repo[/COLOR][/COLOR][/B]">
-<info compressed="false">https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/Addons/repo/addons.xml</info>
-<checksum>https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons/repo/addons.xml.md5</checksum>
+<info compressed="false">https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons.xml</info>
+<checksum>https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons.xml.md5</checksum>
 <datadir zip="true">https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons/repo/Plugins/</datadir>
 </extension>
 <extension point="xbmc.addon.metadata">
@@ -58,9 +58,9 @@
 <import addon="script.module.addon.signals"/>
 </requires>
 <extension point="xbmc.addon.repository" name="GUSTAVOEGATOTV Repo">
-<info compressed="false">https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons/repo/addons.xml</info>
-<checksum>https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons/repo/addons.xml.md5</checksum>
-<datadir zip="true">https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons/repo/Plugins/</datadir>
+<info compressed="false">https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons.xml</info>
+<checksum>https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/Addons/repo/Plugins/</datadir>
 </extension>
 <extension point="xbmc.addon.metadata">
 <news>
