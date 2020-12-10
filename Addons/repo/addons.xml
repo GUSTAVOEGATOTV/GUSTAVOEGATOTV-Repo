@@ -1,0 +1,112 @@
+<addons>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.gustavoegatotv" name="[B][COLOR white]GUSTAVOEGATOTV[/COLOR][/B]" version="1.0.0" provider-name="[B][COLOR white]GUSTAVOEGATOTV[/COLOR][/B]">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+<import addon="script.module.t0mm0.common"/>
+<import addon="script.module.beautifulsoup"/>
+<import addon="script.module.beautifulsoup4"/>
+<import addon="script.module.simple.downloader"/>
+<import addon="script.module.requests"/>
+<import addon="script.module.httplib2"/>
+<import addon="script.module.urlresolver"/>
+<import addon="script.module.simplejson"/>
+<import addon="script.common.plugin.cache"/>
+<import addon="script.module.metahandler"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.repository" name="[B][COLOR white]GUSTAVOEGATOTV[COLOR blue]Repo[/COLOR][/COLOR][/B]">
+<info compressed="false">https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/Addons/repo/addons.xml</info>
+<checksum>https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons/repo/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons/repo/Plugins/</datadir>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>[B][COLOR white]Tenha o melhor conteúdo no seu Kodi[/COLOR]</summary>
+<description>[B][COLOR blue]●[/COLOR] [COLOR white]GUSTAVOEGATOTV é apenas o MELHOR addon.[/COLOR][/B][CR][B][COLOR lime]●[/COLOR] [COLOR white]A Piaba Vai![/COLOR][/B][CR][B][COLOR lime]●[/COLOR] [COLOR white]A Piaba Vai![/COLOR][/B]</description>
+<disclaimer>[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON [COLOR gold]S2[/COLOR][/COLOR][/B]</disclaimer>
+<news>[B][COLOR gold]v1.0.0 - A Piaba Voou.[/COLOR][CR][COLOR gold]v1.0.0 - O Pudim Voou.[/COLOR][CR][COLOR gold]v1.0.0 - O Pingu Voou.[/COLOR][CR][COLOR gold]v1.0.0 - O Gustavo Voou.[/COLOR][CR][COLOR gold]v1.0.0 - A Piaba Pulou.[/COLOR][CR][COLOR gold]v1.0.0 - A Piaba Andou.[/COLOR][/B][CR][B][COLOR gold]v1.0.0 - Addon Criado.[/COLOR][/B]</news>
+<platform>all</platform>
+<reuselanguageinvoker>true</reuselanguageinvoker>
+<assets>
+<icon>icon.png</icon>
+<fanart>fanart.jpg</fanart>
+<screenshot>resources/1.jpg</screenshot>
+<screenshot>resources/2.jpg</screenshot>
+<screenshot>resources/3.jpg</screenshot>
+</assets>
+</extension>
+</addon>
+<addon id="ggtv.repo" name="[B][COLOR white]GUSTAVOEGATOTV [COLOR blue]Repo[/COLOR][/COLOR][/B]" version="1.0.0" provider-name="GUSTAVOEGATOTV">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+<import addon="script.module.beautifulsoup"/>
+<import addon="script.module.simple.downloader"/>
+<import addon="script.module.t0mm0.common"/>
+<import addon="script.module.beautifulsoup4"/>
+<import addon="script.module.requests"/>
+<import addon="script.module.httplib2"/>
+<import addon="script.module.simple.downloader"/>
+<import addon="script.module.urlresolver"/>
+<import addon="script.module.simplejson"/>
+<import addon="script.module.livestreamer"/>
+<import addon="script.module.pyamf"/>
+<import addon="script.common.plugin.cache"/>
+<import addon="script.module.metahandler"/>
+<import addon="script.module.addon.common"/>
+<import addon="script.module.addon.signals"/>
+</requires>
+<extension point="xbmc.addon.repository" name="GUSTAVOEGATOTV Repo">
+<info compressed="false">https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons/repo/addons.xml</info>
+<checksum>https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons/repo/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons/repo/Plugins/</datadir>
+</extension>
+<extension point="xbmc.addon.metadata">
+<news>
+[COLOR blue]●[/COLOR] v1.3 - CORREÇÕES DE BUGS.[CR][COLOR blue]●[/COLOR] v1.2 - Piaba Voou.[CR][COLOR blue]●[/COLOR] v1.1 - Piaba Caiu.[CR][COLOR blue]●[/COLOR] v1.0 - VERSÃO INICIAL.
+</news>
+<summary>GUSTAVOEGATOTV Repo</summary>
+<description>[B][COLOR blue]●[/COLOR] [COLOR white]Repositório do GUSTAVOEGATOTV - 2020[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]A Piaba Voou[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]O Pudim Caiu[/COLOR][/B]
+</description>
+<disclaimer>[B][COLOR white]A Piaba Vai![/COLOR][/B]</disclaimer>
+<platform>all</platform>
+<assets>
+<icon>icon.png</icon>
+<fanart>fanart.jpg</fanart>
+<screenshot>resources/1.jpg</screenshot>
+<screenshot>resources/2.jpg</screenshot>
+<screenshot>resources/3.jpg</screenshot>
+</assets>
+</extension>
+</addon>
+<addon id="script.video.F4mProxy" name="[B][COLOR white]F4MPROXY[/COLOR][/B]" version="2.8.7" provider-name="[B][COLOR white]Shani[/COLOR][/B]">
+<requires>
+<import addon="xbmc.python" version="2.1.0" />
+<import addon="script.module.requests" />
+</requires>
+<extension point="xbmc.python.module" library="lib" />
+<extension point="xbmc.python.pluginsource" library="addon.py">
+<provides>executable</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<platform>all</platform>
+<summary lang="en">Proxy for f4m</summary>
+<description lang="en">[B][COLOR white]SCRIPT F4M OFICIAL - SHANI[/COLOR][/B]</description>
+</extension>
+</addon>
+<addon id="plugin.video.f4mTester" version="2.7.1" name="[B][COLOR white]F4MTESTER[/COLOR][/B]" provider-name="[B][COLOR white]Shani[/COLOR][/B]">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+<import addon="script.video.F4mProxy" version="2.8.7"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>PLUGIN F4M OFICIAL - SHANI</summary>
+<description></description>
+<platform>all</platform>
+</extension>
+</addon>
+</addons>
