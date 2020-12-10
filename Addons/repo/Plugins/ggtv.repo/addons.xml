@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="ggtv.repo" name="GUSTAVOEGATOTV Repo" version="1.0.0" provider-name="nome do criador">
+	<extension point="xbmc.addon.repository" name="GUSTAVOEGATOTV Repo">
+		<info compressed="false">http://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons.xml</info>
+		<checksum>http://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/GUSTAVOEGATOTV/GUSTAVOEGATOTV-Repo/master/zip/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>GUSTAVOEGATOTV Repo</summary>
+		<description>Repositório do GUSTAVOEGATOTV</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
